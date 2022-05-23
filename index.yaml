@@ -13,7 +13,7 @@ entries:
     name: SAP Gardener
     type: application
     home: https://gardener.cloud
-    icon: https://github.com/tschoergez/gardener/raw/master/logo/gardener-large.png
+    icon: https://tschoergez.github.io/gardener-demo/gardener-large.png
     urls:
     - https://tschoergez.github.io/gardener-demo/gardener-0.1.0.tgz
     version: 0.1.0
