@@ -12,7 +12,7 @@ entries:
     digest: 6418fc2dce6034c766d589d0a1ade9e250740028ec9d44fb0ae0543b6f93d8ab
     name: SAP Gardener
     type: application
-    logo: https://tschoergez.github.io/gardener-demo/gardener-large.png 
+    icon: https://tschoergez.github.io/gardener-demo/gardener-large.png 
     urls:
     - https://tschoergez.github.io/gardener-demo/gardener-0.1.0.tgz
     version: 0.1.0
