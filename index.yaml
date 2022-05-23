@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gardener:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-23T13:21:10.6511505+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 6418fc2dce6034c766d589d0a1ade9e250740028ec9d44fb0ae0543b6f93d8ab
+    name: gardener
+    type: application
+    urls:
+    - https://tschoergez.github.io/gardener-demo/gardener-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-23T13:21:10.6501958+02:00"
